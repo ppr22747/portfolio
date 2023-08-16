@@ -1945,7 +1945,7 @@ nav a:hover {
 }
 
 body {
-  background: #f67590;
+  background: #fdfd96;
 }
 
 .main-wrapper-first {
@@ -2051,7 +2051,7 @@ body {
 }
 
 .primary-btn:hover {
-  background: #f67590;
+  background: #fdfd96;
   border: 1px solid #fff;
   color: #fff;
 }
@@ -2061,7 +2061,7 @@ body {
 }
 
 .main-wrapper-first {
-  background: #f66483;
+  background: #fdfd96;
 }
 
 .banner-content {
@@ -2087,7 +2087,7 @@ body {
 }
 
 .banner-area {
-  background: #f66483;
+  background: #ffdd44;
 }
 
 .featured-area {
@@ -2277,7 +2277,7 @@ body {
 }
 
 .newsletter-area {
-  background-color: #f67590;
+  background-color: #fdfd96;
   color: #fff;
 }
 
@@ -2318,7 +2318,7 @@ body {
 }
 
 .subscription .primary-btn {
-  background: #f67590;
+  background: #fdfd96;
   color: #fff;
   position: absolute;
   top: 50%;
