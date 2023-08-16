@@ -1062,7 +1062,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #f67590;
+  border-left: 2px solid #fdfd96;
 }
 
 .progress-table-wrap {
@@ -1297,7 +1297,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #fdfd96;
+  border: 1px solid fdfd96;
 }
 
 .single-input-accent {
@@ -2069,7 +2069,7 @@ body {
 }
 
 .banner-content h1 {
-  color: #fff;
+  color: #000000;
   font-weight: 600;
 }
 
