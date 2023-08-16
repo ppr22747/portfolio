@@ -1937,10 +1937,10 @@ nav a:hover {
 
 @media (max-width: 767px) {
   nav a {
-    color: #f67590;
+    color: #fff3da;
   }
   nav a:hover {
-    color: #f67590 !important;
+    color: #fff3da !important;
   }
 }
 
@@ -2061,7 +2061,7 @@ body {
 }
 
 .main-wrapper-first {
-  background: #fdfd96;
+  background: #ffdd44;
 }
 
 .banner-content {
@@ -2213,7 +2213,7 @@ body {
 
 .process-area .lnr {
   font-size: 28px;
-  color: #f5204b;
+  color: #ffdd44;
   font-weight: 600;
 }
 
